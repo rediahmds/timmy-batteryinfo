@@ -1,2 +1,2 @@
-plotext==5.2.8
+asciichartpy==1.5.25
 psutil==5.9.7
